@@ -1,0 +1,4 @@
+project: Agones
+target: test_round_trip_types
+cmds:
+- cmd: /out/test_round_trip_types
